@@ -1,0 +1,16 @@
+{
+  "name": "foobar/foobar7",
+  "description": "foo bar for PHP 7* only",
+  "license": "Unlicense",
+  "authors": [
+    {
+      "name": "Andrej Rypák",
+      "email": "xrypak@gmail.com"
+    }
+  ],
+  "type": "lib",
+  "require": {
+    "php": "^7",
+    "foobar/foobar": "*"
+  }
+}
