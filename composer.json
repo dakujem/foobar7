@@ -8,7 +8,6 @@
       "email": "xrypak@gmail.com"
     }
   ],
-  "type": "lib",
   "require": {
     "php": "^7",
     "foobar/foobar": "*"
